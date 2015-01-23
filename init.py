@@ -2,8 +2,6 @@
 Introduction
 ============
 
-This script come from Luma Pictures http://lumapictures.com/
-
 This script recursively adds path trees rooted in one or more directories to
 the Nuke plugin path. If Nuke is running in GUI mode, it can also be used to
 automatically build menu trees for any gizmo files it locates. (Note: see the
